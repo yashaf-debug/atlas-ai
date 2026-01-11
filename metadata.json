@@ -1,0 +1,7 @@
+{
+  "name": "Atlas AI",
+  "description": "A Cyberpunk-themed personal fitness AI coach.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
