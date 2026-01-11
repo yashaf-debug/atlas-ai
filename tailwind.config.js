@@ -18,8 +18,8 @@ export default {
                 }
             },
             fontFamily: {
-                sans: ['Inter', 'sans-serif'],
-                display: ['Orbitron', 'sans-serif'],
+                sans: ['-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Arial', 'sans-serif'],
+                display: ['Impact', 'Arial Black', 'sans-serif'],
             }
         },
     },
